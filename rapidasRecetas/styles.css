@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(255, 174, 0);
+    padding: 100px;
+}
+.contenedorSesion{
+    color: white;
+    text-align: center;
+    background-color: rgb(202, 116, 4);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenedorRecetas{
+    display: flex;
+    padding: 15px;
+    width: 350px;
+    width: 250px;
+}
+
+.tablaReceta{
+    overflow: hidden;
+    overflow-y: scroll;
+}
